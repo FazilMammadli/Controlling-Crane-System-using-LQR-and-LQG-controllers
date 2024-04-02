@@ -13,7 +13,7 @@ This repository is dedicated to the ENPM 667 Final Project at the University of 
 - `LQR_Non_linear.m`: MATLAB code for applying the LQR controller to the non-linear system.
 - `observability.m`: MATLAB code for additional observability checks.
 - `Group4_gayatrid_absiddiq_mammadli.pdf`: The final technical report that includes detailed explanations, methodologies, and findings of the project.
-- 
+  
 ### Running the Code
 Each MATLAB file can be run in MATLAB to observe different behaviors and analysis results:
 
